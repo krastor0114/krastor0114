@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Bob%20Smith&fontSize=65&fontColor=ffffff&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Bob%20Smith&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+  />
 </p>
 
 <h3 align="center">
@@ -23,10 +25,10 @@
 </p>
 
 <p align="center">
-<img 
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
-width="450"
-/>
+  <img 
+    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
+    width="450"
+  />
 </p>
 
 ---
@@ -34,7 +36,27 @@ width="450"
 # 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma,docker" />
+
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=react" title="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=redux" title="Redux" />
+<img src="https://skillicons.dev/icons?i=git" title="Git" />
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+<img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+
 </p>
 
 ---
@@ -44,14 +66,38 @@ width="450"
 ```javascript
 const bob = {
   role: "Full Stack MERN Developer",
+  
   code: ["JavaScript", "TypeScript", "Python"],
+
   technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL"],
-    devOps: ["Docker", "GitHub Actions"],
+    frontend: [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js"
+    ],
+
+    database: [
+      "MongoDB",
+      "MySQL",
+      "Firebase"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Docker",
+      "VS Code",
+      "Figma"
+    ]
   },
-  currentFocus: "Building scalable full-stack applications",
+
+  currentFocus: "Building scalable full-stack web applications",
 };
 ````
 
@@ -60,15 +106,43 @@ const bob = {
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" 
+ height="180"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    alt="snake animation"
+  />
 </p>
 
 ---
@@ -78,15 +152,27 @@ const bob = {
 <p align="center">
 
 <a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img 
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"
+  />
 </a>
 
 <a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"
+  />
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  <img 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"
+  />
+</a>
+
+<a href="https://portfolio.com">
+  <img 
+    src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"
+  />
 </a>
 
 </p>
@@ -94,11 +180,17 @@ const bob = {
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&row=1&column=7"/>
+⚡ Building scalable web applications with modern technologies
+</p>
+
+<p align="center">
+⭐ Star some repositories if you like my projects!
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"
+  />
 </p>
