@@ -1,13 +1,13 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Bob%20Smith&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
   />
 </p>
 
 <h3 align="center">
 <samp>
 &gt; Hey There!, I am
-<b><a target="_blank" href="https://github.com/yourusername">Bob Smith</a></b>
+<b><a target="_blank" href="https://github.com/yourusername"></a></b>
 </samp>
 </h3>
 
