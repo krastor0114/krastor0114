@@ -64,7 +64,7 @@
 # 💻 About Me
 
 ```javascript
-const bob = {
+const krastor = {
   role: "Full Stack MERN Developer",
   
   code: ["JavaScript", "TypeScript", "Python"],
