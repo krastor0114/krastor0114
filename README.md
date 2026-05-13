@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+profile;Full+Stack+Web+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications"
     alt="Typing SVG"
   />
 </p>
