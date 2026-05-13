@@ -19,8 +19,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+profile;Full+Stack+Web+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&width=900&lines=Welcome+to+My+Profile;Full+Stack+MERN+Developer;Building+Modern+Web+Apps;Always+Learning+New+Technologies"
+    alt="Animated Header"
   />
 </p>
 
