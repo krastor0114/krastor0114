@@ -19,8 +19,9 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+profile;Full+Stack+Web+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications"
-    alt="Typing SVG"
+    src="https://images.unsplash.com/photo-1581276879432-c7a5f1b8d85b?auto=format&fit=crop&w=900&q=80"
+    alt="3D Desk Setup"
+    width="700"
   />
 </p>
 
